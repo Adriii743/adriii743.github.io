@@ -1,0 +1,8 @@
+body {font-family: Arial, sans-serif;background-color: #ffffff;color: #000000;}
+
+header {text-align:left;font-family:Calisto;background-color: #e0e0e0;padding: 10px;}
+section {margin: 20px;}
+
+table {border: 5px solid black;}
+
+th, td {border: 1px solid black;}
